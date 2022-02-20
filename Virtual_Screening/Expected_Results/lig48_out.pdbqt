@@ -1,0 +1,78 @@
+MODEL 1
+REMARK VINA RESULT:      -4.4      0.000      0.000
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  CA_4 
+REMARK    2  A    between atoms: CG_6  and  OD_7 
+ROOT
+ATOM      1  CA  HYP A   1     -15.393  -2.783  20.852  1.00  0.00     0.288 C 
+ATOM      2  CB  HYP A   1     -16.125  -1.484  21.582  1.00  0.00     0.077 C 
+ATOM      3  CG  HYP A   1     -15.231  -1.557  23.001  1.00  0.00     0.146 C 
+ATOM      4  CD  HYP A   1     -14.668  -3.111  22.717  1.00  0.00     0.265 C 
+ATOM      5  N   HYP A   1     -15.823  -3.688  22.110  1.00  0.00    -0.059 N 
+ATOM      6  H1  HYP A   1     -16.714  -3.445  22.542  1.00  0.00     0.278 HD
+ATOM      7  H2  HYP A   1     -15.992  -4.693  22.054  1.00  0.00     0.278 HD
+ENDROOT
+BRANCH   1   8
+ATOM      8  C   HYP A   1     -16.765  -3.171  20.032  1.00  0.00     0.204 C 
+ATOM      9  O   HYP A   1     -17.480  -3.713  20.524  1.00  0.00    -0.646 OA
+ATOM     10  OXT HYP A   1     -16.446  -3.518  18.710  1.00  0.00    -0.646 OA
+ENDBRANCH   1   8
+BRANCH   3  11
+ATOM     11  OD  HYP A   1     -14.002  -0.930  22.298  1.00  0.00    -0.394 OA
+ATOM     12  HD  HYP A   1     -13.724  -1.500  21.564  1.00  0.00     0.210 HD
+ENDBRANCH   3  11
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.4      2.159      2.819
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  CA_4 
+REMARK    2  A    between atoms: CG_6  and  OD_7 
+ROOT
+ATOM      1  CA  HYP A   1     -15.667  -3.522  22.114  1.00  0.00     0.288 C 
+ATOM      2  CB  HYP A   1     -14.548  -2.423  21.568  1.00  0.00     0.077 C 
+ATOM      3  CG  HYP A   1     -15.666  -1.304  21.006  1.00  0.00     0.146 C 
+ATOM      4  CD  HYP A   1     -16.952  -2.381  21.038  1.00  0.00     0.265 C 
+ATOM      5  N   HYP A   1     -16.287  -3.576  20.631  1.00  0.00    -0.059 N 
+ATOM      6  H1  HYP A   1     -15.616  -3.467  19.870  1.00  0.00     0.278 HD
+ATOM      7  H2  HYP A   1     -16.767  -4.389  20.246  1.00  0.00     0.278 HD
+ENDROOT
+BRANCH   1   8
+ATOM      8  C   HYP A   1     -14.664  -4.788  21.801  1.00  0.00     0.204 C 
+ATOM      9  O   HYP A   1     -15.062  -5.613  21.344  1.00  0.00    -0.646 OA
+ATOM     10  OXT HYP A   1     -13.782  -4.972  22.876  1.00  0.00    -0.646 OA
+ENDBRANCH   1   8
+BRANCH   3  11
+ATOM     11  OD  HYP A   1     -15.965  -0.828  22.450  1.00  0.00    -0.394 OA
+ATOM     12  HD  HYP A   1     -16.823  -0.378  22.471  1.00  0.00     0.210 HD
+ENDBRANCH   3  11
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.2      1.345      3.818
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  CA_4 
+REMARK    2  A    between atoms: CG_6  and  OD_7 
+ROOT
+ATOM      1  CA  HYP A   1     -15.593  -2.509  22.829  1.00  0.00     0.288 C 
+ATOM      2  CB  HYP A   1     -16.068  -1.476  21.620  1.00  0.00     0.077 C 
+ATOM      3  CG  HYP A   1     -16.144  -2.642  20.416  1.00  0.00     0.146 C 
+ATOM      4  CD  HYP A   1     -15.263  -3.777  21.281  1.00  0.00     0.265 C 
+ATOM      5  N   HYP A   1     -14.324  -2.921  21.931  1.00  0.00    -0.059 N 
+ATOM      6  H1  HYP A   1     -13.935  -2.177  21.352  1.00  0.00     0.278 HD
+ATOM      7  H2  HYP A   1     -13.436  -3.243  22.317  1.00  0.00     0.278 HD
+ENDROOT
+BRANCH   1   8
+ATOM      8  C   HYP A   1     -14.742  -1.325  23.588  1.00  0.00     0.204 C 
+ATOM      9  O   HYP A   1     -13.802  -1.112  23.242  1.00  0.00    -0.646 OA
+ATOM     10  OXT HYP A   1     -14.946  -1.406  24.975  1.00  0.00    -0.646 OA
+ENDBRANCH   1   8
+BRANCH   3  11
+ATOM     11  OD  HYP A   1     -17.483  -3.182  20.977  1.00  0.00    -0.394 OA
+ATOM     12  HD  HYP A   1     -17.880  -2.517  21.561  1.00  0.00     0.210 HD
+ENDBRANCH   3  11
+TORSDOF 2
+ENDMDL

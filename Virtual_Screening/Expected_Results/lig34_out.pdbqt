@@ -1,0 +1,66 @@
+MODEL 1
+REMARK VINA RESULT:      -5.3      0.000      0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNL     1     -12.105  -9.170  21.385  1.00  0.00     0.163 C 
+HETATM    2  N   UNL     1     -13.530  -8.880  21.386  1.00  0.00    -0.286 N 
+HETATM    3  C   UNL     1     -13.927  -7.593  21.250  1.00  0.00     0.167 C 
+HETATM    4  N   UNL     1     -13.358  -6.394  21.414  1.00  0.00    -0.224 NA
+HETATM    5  C   UNL     1     -14.306  -5.509  21.811  1.00  0.00     0.210 C 
+HETATM    6  N   UNL     1     -15.458  -6.025  21.313  1.00  0.00    -0.343 N 
+HETATM    7  C   UNL     1     -15.277  -7.345  21.080  1.00  0.00     0.149 C 
+HETATM    8  C   UNL     1     -16.096  -8.458  21.033  1.00  0.00     0.281 C 
+HETATM    9  O   UNL     1     -17.294  -8.262  20.667  1.00  0.00    -0.265 OA
+HETATM   10  N   UNL     1     -15.735  -9.642  21.580  1.00  0.00    -0.269 N 
+HETATM   11  C   UNL     1     -16.707 -10.664  21.872  1.00  0.00     0.164 C 
+HETATM   12  C   UNL     1     -14.404  -9.869  21.694  1.00  0.00     0.332 C 
+HETATM   13  O   UNL     1     -13.992 -10.901  22.251  1.00  0.00    -0.246 OA
+HETATM   14  H   UNL     1     -16.287  -5.522  21.149  1.00  0.00     0.167 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.9      2.198      3.625
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNL     1     -15.034 -11.283  22.159  1.00  0.00     0.163 C 
+HETATM    2  N   UNL     1     -13.950 -10.535  21.545  1.00  0.00    -0.286 N 
+HETATM    3  C   UNL     1     -13.938  -9.188  21.677  1.00  0.00     0.167 C 
+HETATM    4  N   UNL     1     -14.841  -8.249  21.979  1.00  0.00    -0.224 NA
+HETATM    5  C   UNL     1     -14.517  -7.103  21.329  1.00  0.00     0.210 C 
+HETATM    6  N   UNL     1     -13.175  -7.201  21.154  1.00  0.00    -0.343 N 
+HETATM    7  C   UNL     1     -12.819  -8.502  21.240  1.00  0.00     0.149 C 
+HETATM    8  C   UNL     1     -11.793  -9.279  20.733  1.00  0.00     0.281 C 
+HETATM    9  O   UNL     1     -10.689  -8.690  20.529  1.00  0.00    -0.265 OA
+HETATM   10  N   UNL     1     -12.005 -10.522  20.241  1.00  0.00    -0.269 N 
+HETATM   11  C   UNL     1     -11.045 -11.165  19.381  1.00  0.00     0.164 C 
+HETATM   12  C   UNL     1     -13.088 -11.180  20.722  1.00  0.00     0.332 C 
+HETATM   13  O   UNL     1     -13.392 -12.297  20.267  1.00  0.00    -0.246 OA
+HETATM   14  H   UNL     1     -12.563  -6.448  20.991  1.00  0.00     0.167 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.8      1.877      3.296
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNL     1     -14.327 -11.462  23.157  1.00  0.00     0.163 C 
+HETATM    2  N   UNL     1     -14.193 -10.239  22.382  1.00  0.00    -0.286 N 
+HETATM    3  C   UNL     1     -15.308  -9.519  22.115  1.00  0.00     0.167 C 
+HETATM    4  N   UNL     1     -16.623  -9.760  22.104  1.00  0.00    -0.224 NA
+HETATM    5  C   UNL     1     -17.204  -8.981  21.158  1.00  0.00     0.210 C 
+HETATM    6  N   UNL     1     -16.368  -7.918  21.056  1.00  0.00    -0.343 N 
+HETATM    7  C   UNL     1     -15.152  -8.275  21.529  1.00  0.00     0.149 C 
+HETATM    8  C   UNL     1     -13.849  -7.873  21.300  1.00  0.00     0.281 C 
+HETATM    9  O   UNL     1     -13.684  -6.662  20.965  1.00  0.00    -0.265 OA
+HETATM   10  N   UNL     1     -12.831  -8.757  21.187  1.00  0.00    -0.269 N 
+HETATM   11  C   UNL     1     -11.578  -8.388  20.580  1.00  0.00     0.164 C 
+HETATM   12  C   UNL     1     -13.001  -9.950  21.808  1.00  0.00     0.332 C 
+HETATM   13  O   UNL     1     -12.143 -10.842  21.691  1.00  0.00    -0.246 OA
+HETATM   14  H   UNL     1     -16.607  -7.034  20.698  1.00  0.00     0.167 HD
+ENDROOT
+TORSDOF 0
+ENDMDL

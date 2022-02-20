@@ -1,0 +1,25 @@
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_2  and  CA_4 
+REMARK    2  A    between atoms: CA_4  and  N_5 
+REMARK    3  A    between atoms: CA_4  and  C_6 
+ROOT
+ATOM      1  CA  VAL A   1      -0.326   0.666  -0.714  1.00  0.00     0.286 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  CB  VAL A   1       1.163   0.737  -0.026  1.00  0.00     0.018 C 
+ATOM      3  CG1 VAL A   1       2.094   0.076  -0.971  1.00  0.00     0.012 C 
+ATOM      4  CG2 VAL A   1       1.097   0.179   1.336  1.00  0.00     0.012 C 
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  N   VAL A   1      -0.955   1.555   0.427  1.00  0.00    -0.065 N 
+ATOM      6  H1  VAL A   1      -0.647   1.209   1.336  1.00  0.00     0.275 HD
+ATOM      7  H2  VAL A   1      -1.973   1.508   0.372  1.00  0.00     0.275 HD
+ATOM      8  H3  VAL A   1      -0.652   2.522   0.310  1.00  0.00     0.275 HD
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  C   VAL A   1      -0.690  -0.750  -0.041  1.00  0.00     0.204 C 
+ATOM     10  O   VAL A   1      -1.294  -0.804   1.019  1.00  0.00    -0.646 OA
+ATOM     11  OXT VAL A   1      -1.090  -1.658  -1.029  1.00  0.00    -0.646 OA
+ENDBRANCH   1   9
+TORSDOF 3

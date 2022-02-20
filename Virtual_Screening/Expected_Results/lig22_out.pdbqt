@@ -1,0 +1,99 @@
+MODEL 1
+REMARK VINA RESULT:      -7.3      0.000      0.000
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_11  and  O_12 
+ROOT
+HETATM    1  C   UNL     1     -16.246 -11.765  23.029  1.00  0.00     0.024 C 
+HETATM    2  C   UNL     1     -16.543 -10.963  21.839  1.00  0.00     0.021 C 
+HETATM    3  C   UNL     1     -16.206 -11.632  20.576  1.00  0.00     0.018 C 
+HETATM    4  C   UNL     1     -14.818 -12.184  20.956  1.00  0.00     0.007 C 
+HETATM    5  C   UNL     1     -13.928 -10.843  20.742  1.00  0.00     0.003 C 
+HETATM    6  C   UNL     1     -14.276 -10.070  22.204  1.00  0.00    -0.001 C 
+HETATM    7  C   UNL     1     -13.619  -8.697  21.673  1.00  0.00     0.033 C 
+HETATM    8  C   UNL     1     -12.395  -9.000  20.871  1.00  0.00    -0.023 C 
+HETATM    9  C   UNL     1     -11.728 -10.129  21.024  1.00  0.00    -0.072 C 
+HETATM   10  C   UNL     1     -10.617 -10.490  20.115  1.00  0.00     0.066 C 
+HETATM   11  C   UNL     1      -9.554 -11.412  20.970  1.00  0.00     0.122 C 
+HETATM   12  C   UNL     1     -10.638 -12.540  21.489  1.00  0.00     0.033 C 
+HETATM   13  C   UNL     1     -11.900 -12.452  20.635  1.00  0.00     0.016 C 
+HETATM   14  C   UNL     1     -12.548 -11.357  21.400  1.00  0.00    -0.017 C 
+HETATM   15  C   UNL     1     -12.519 -11.493  22.826  1.00  0.00     0.020 C 
+HETATM   16  C   UNL     1     -15.820  -9.525  21.866  1.00  0.00     0.006 C 
+HETATM   17  C   UNL     1     -16.170  -9.397  23.454  1.00  0.00     0.013 C 
+HETATM   18  C   UNL     1     -17.616  -9.739  23.415  1.00  0.00     0.079 C 
+HETATM   19  C   UNL     1     -17.857 -10.363  22.059  1.00  0.00     0.135 C 
+HETATM   20  O   UNL     1     -18.364  -9.606  21.231  1.00  0.00    -0.297 OA
+ENDROOT
+BRANCH  11  21
+HETATM   21  O   UNL     1      -9.727 -10.547  22.214  1.00  0.00    -0.395 OA
+HETATM   22  H   UNL     1     -10.077 -11.089  22.938  1.00  0.00     0.210 HD
+ENDBRANCH  11  21
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.6      0.836      5.719
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_11  and  O_12 
+ROOT
+HETATM    1  C   UNL     1     -11.581 -12.542  20.691  1.00  0.00     0.024 C 
+HETATM    2  C   UNL     1     -11.076 -11.542  21.635  1.00  0.00     0.021 C 
+HETATM    3  C   UNL     1     -11.546 -11.738  23.012  1.00  0.00     0.018 C 
+HETATM    4  C   UNL     1     -13.033 -12.022  22.723  1.00  0.00     0.007 C 
+HETATM    5  C   UNL     1     -13.563 -10.500  22.523  1.00  0.00     0.003 C 
+HETATM    6  C   UNL     1     -13.059 -10.263  20.927  1.00  0.00    -0.001 C 
+HETATM    7  C   UNL     1     -13.349  -8.681  21.035  1.00  0.00     0.033 C 
+HETATM    8  C   UNL     1     -14.596  -8.449  21.824  1.00  0.00    -0.023 C 
+HETATM    9  C   UNL     1     -15.524  -9.381  21.946  1.00  0.00    -0.072 C 
+HETATM   10  C   UNL     1     -16.674  -9.201  22.860  1.00  0.00     0.066 C 
+HETATM   11  C   UNL     1     -17.945 -10.037  22.230  1.00  0.00     0.122 C 
+HETATM   12  C   UNL     1     -17.180 -11.491  22.090  1.00  0.00     0.033 C 
+HETATM   13  C   UNL     1     -15.922 -11.480  22.953  1.00  0.00     0.016 C 
+HETATM   14  C   UNL     1     -15.037 -10.825  21.957  1.00  0.00    -0.017 C 
+HETATM   15  C   UNL     1     -15.123 -11.334  20.620  1.00  0.00     0.020 C 
+HETATM   16  C   UNL     1     -11.423 -10.036  21.185  1.00  0.00     0.006 C 
+HETATM   17  C   UNL     1     -11.079 -10.435  19.641  1.00  0.00     0.013 C 
+HETATM   18  C   UNL     1      -9.761 -11.091  19.846  1.00  0.00     0.079 C 
+HETATM   19  C   UNL     1      -9.659 -11.360  21.330  1.00  0.00     0.135 C 
+HETATM   20  O   UNL     1      -8.967 -10.552  21.949  1.00  0.00    -0.297 OA
+ENDROOT
+BRANCH  11  21
+HETATM   21  O   UNL     1     -17.585  -9.612  20.810  1.00  0.00    -0.395 OA
+HETATM   22  H   UNL     1     -18.222  -9.997  20.187  1.00  0.00     0.210 HD
+ENDBRANCH  11  21
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.5      1.443      2.001
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_11  and  O_12 
+ROOT
+HETATM    1  C   UNL     1     -18.064 -12.845  22.595  1.00  0.00     0.024 C 
+HETATM    2  C   UNL     1     -18.339 -11.774  21.634  1.00  0.00     0.021 C 
+HETATM    3  C   UNL     1     -17.834 -12.047  20.283  1.00  0.00     0.018 C 
+HETATM    4  C   UNL     1     -16.434 -12.580  20.650  1.00  0.00     0.007 C 
+HETATM    5  C   UNL     1     -15.666 -11.170  20.892  1.00  0.00     0.003 C 
+HETATM    6  C   UNL     1     -16.210 -10.850  22.461  1.00  0.00    -0.001 C 
+HETATM    7  C   UNL     1     -15.650  -9.340  22.383  1.00  0.00     0.033 C 
+HETATM    8  C   UNL     1     -14.339  -9.324  21.665  1.00  0.00    -0.023 C 
+HETATM    9  C   UNL     1     -13.578 -10.401  21.586  1.00  0.00    -0.072 C 
+HETATM   10  C   UNL     1     -12.366 -10.419  20.738  1.00  0.00     0.066 C 
+HETATM   11  C   UNL     1     -11.291 -11.458  21.429  1.00  0.00     0.122 C 
+HETATM   12  C   UNL     1     -12.298 -12.761  21.514  1.00  0.00     0.033 C 
+HETATM   13  C   UNL     1     -13.487 -12.537  20.584  1.00  0.00     0.016 C 
+HETATM   14  C   UNL     1     -14.301 -11.741  21.535  1.00  0.00    -0.017 C 
+HETATM   15  C   UNL     1     -14.378 -12.256  22.870  1.00  0.00     0.020 C 
+HETATM   16  C   UNL     1     -17.766 -10.348  22.116  1.00  0.00     0.006 C 
+HETATM   17  C   UNL     1     -18.258 -10.681  23.635  1.00  0.00     0.013 C 
+HETATM   18  C   UNL     1     -19.655 -11.104  23.352  1.00  0.00     0.079 C 
+HETATM   19  C   UNL     1     -19.719 -11.353  21.862  1.00  0.00     0.135 C 
+HETATM   20  O   UNL     1     -20.228 -10.439  21.214  1.00  0.00    -0.297 OA
+ENDROOT
+BRANCH  11  21
+HETATM   21  O   UNL     1     -11.652 -10.978  22.831  1.00  0.00    -0.395 OA
+HETATM   22  H   UNL     1     -10.872 -11.040  23.405  1.00  0.00     0.210 HD
+ENDBRANCH  11  21
+TORSDOF 1
+ENDMDL

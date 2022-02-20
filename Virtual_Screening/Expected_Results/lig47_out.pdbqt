@@ -1,0 +1,96 @@
+MODEL 1
+REMARK VINA RESULT:      -4.3      0.000      0.000
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_2  and  OG1_3 
+REMARK    2  A    between atoms: CB_2  and  CA_4 
+REMARK    3  A    between atoms: CA_4  and  N_5 
+REMARK    4  A    between atoms: CA_4  and  C_6 
+ROOT
+ATOM      1  CA  THR A   1     -15.314  -3.248  20.836  1.00  0.00     0.311 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  CB  THR A   1     -16.688  -2.615  21.670  1.00  0.00     0.155 C 
+ATOM      3  CG2 THR A   1     -16.734  -1.253  20.762  1.00  0.00     0.042 C 
+BRANCH   2   4
+ATOM      4  OG1 THR A   1     -17.726  -3.295  20.816  1.00  0.00    -0.393 OA
+ATOM      5  HG1 THR A   1     -18.494  -3.525  21.362  1.00  0.00     0.210 HD
+ENDBRANCH   2   4
+ENDBRANCH   1   2
+BRANCH   1   6
+ATOM      6  N   THR A   1     -15.736  -4.757  20.890  1.00  0.00    -0.063 N 
+ATOM      7  H1  THR A   1     -15.699  -5.086  21.856  1.00  0.00     0.275 HD
+ATOM      8  H2  THR A   1     -15.097  -5.310  20.319  1.00  0.00     0.275 HD
+ATOM      9  H3  THR A   1     -16.686  -4.858  20.532  1.00  0.00     0.275 HD
+ENDBRANCH   1   6
+BRANCH   1  10
+ATOM     10  C   THR A   1     -14.419  -3.289  22.158  1.00  0.00     0.207 C 
+ATOM     11  O   THR A   1     -13.696  -2.301  22.380  1.00  0.00    -0.646 OA
+ATOM     12  OXT THR A   1     -14.036  -4.448  22.729  1.00  0.00    -0.646 OA
+ENDBRANCH   1  10
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.1      1.636      1.982
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_2  and  OG1_3 
+REMARK    2  A    between atoms: CB_2  and  CA_4 
+REMARK    3  A    between atoms: CA_4  and  N_5 
+REMARK    4  A    between atoms: CA_4  and  C_6 
+ROOT
+ATOM      1  CA  THR A   1     -14.850  -3.012  21.166  1.00  0.00     0.311 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  CB  THR A   1     -16.042  -2.469  22.292  1.00  0.00     0.155 C 
+ATOM      3  CG2 THR A   1     -14.984  -1.524  23.108  1.00  0.00     0.042 C 
+BRANCH   2   4
+ATOM      4  OG1 THR A   1     -16.535  -1.311  21.463  1.00  0.00    -0.393 OA
+ATOM      5  HG1 THR A   1     -17.488  -1.408  21.307  1.00  0.00     0.210 HD
+ENDBRANCH   2   4
+ENDBRANCH   1   2
+BRANCH   1   6
+ATOM      6  N   THR A   1     -15.836  -3.372  20.002  1.00  0.00    -0.063 N 
+ATOM      7  H1  THR A   1     -16.782  -3.090  20.258  1.00  0.00     0.275 HD
+ATOM      8  H2  THR A   1     -15.815  -4.378  19.836  1.00  0.00     0.275 HD
+ATOM      9  H3  THR A   1     -15.554  -2.882  19.152  1.00  0.00     0.275 HD
+ENDBRANCH   1   6
+BRANCH   1  10
+ATOM     10  C   THR A   1     -14.800  -4.480  21.789  1.00  0.00     0.207 C 
+ATOM     11  O   THR A   1     -13.840  -4.745  22.535  1.00  0.00    -0.646 OA
+ATOM     12  OXT THR A   1     -15.402  -5.531  21.197  1.00  0.00    -0.646 OA
+ENDBRANCH   1  10
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.0      3.894      4.749
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_2  and  OG1_3 
+REMARK    2  A    between atoms: CB_2  and  CA_4 
+REMARK    3  A    between atoms: CA_4  and  N_5 
+REMARK    4  A    between atoms: CA_4  and  C_6 
+ROOT
+ATOM      1  CA  THR A   1     -14.378  -7.201  21.016  1.00  0.00     0.311 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  CB  THR A   1     -15.389  -8.072  22.112  1.00  0.00     0.155 C 
+ATOM      3  CG2 THR A   1     -16.553  -8.330  20.990  1.00  0.00     0.042 C 
+BRANCH   2   4
+ATOM      4  OG1 THR A   1     -14.767  -9.423  21.871  1.00  0.00    -0.393 OA
+ATOM      5  HG1 THR A   1     -15.401 -10.118  22.112  1.00  0.00     0.210 HD
+ENDBRANCH   2   4
+ENDBRANCH   1   2
+BRANCH   1   6
+ATOM      6  N   THR A   1     -13.017  -7.492  21.737  1.00  0.00    -0.063 N 
+ATOM      7  H1  THR A   1     -12.290  -7.655  21.040  1.00  0.00     0.275 HD
+ATOM      8  H2  THR A   1     -13.114  -8.319  22.326  1.00  0.00     0.275 HD
+ATOM      9  H3  THR A   1     -12.760  -6.691  22.316  1.00  0.00     0.275 HD
+ENDBRANCH   1   6
+BRANCH   1  10
+ATOM     10  C   THR A   1     -14.643  -5.803  21.740  1.00  0.00     0.207 C 
+ATOM     11  O   THR A   1     -15.417  -5.012  21.172  1.00  0.00    -0.646 OA
+ATOM     12  OXT THR A   1     -13.755  -5.258  22.594  1.00  0.00    -0.646 OA
+ENDBRANCH   1  10
+TORSDOF 4
+ENDMDL
